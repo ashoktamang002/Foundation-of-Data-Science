@@ -1,0 +1,145 @@
+team,match_id,possession_pct
+Mexico ,Mexico_vs_SouthAfrica_2026-06-11,61
+South Africa,Mexico_vs_SouthAfrica_2026-06-11,40
+Korea Republic ,KoreaRepublic_vs_Czechia_2026-06-11,62
+Czechia,KoreaRepublic_vs_Czechia_2026-06-11,38
+Canada ,Canada_vs_BosniaHerz2026-06-12,61
+Bosnia–Herz, Canada_vs_BosniaHerz2026-06-12,39
+USA ,USA_vs_Paraguay_2026-06-12,65
+Paraguay,USA_vs_Paraguay_2026-06-12,35
+Qatar ,Qatar_vs_Switzerland_2026-06-13,32
+Switzerland,Qatar_vs_Switzerland_2026-06-13,68
+Brazil ,Brazil_vs_Morocco_2026-06-13,51
+Morocco,Brazil_vs_Morocco_2026-06-13,49
+Haiti ,Haiti_vs_Scotland_2026-06-13,54
+Scotland,Haiti_vs_Scotland_2026-06-13,46
+Australia ,Australia_vs_Turkey_2026-06-13,28
+Turkey,Australia_vs_Turkey_2026-06-13,72
+Germany ,Germany_vs_Curacao_2026-06-14,65
+Curacao,Germany_vs_Curacao_2026-06-14,35
+Netherlands ,Netherlands_vs_Japan_2026-06-14,60
+Japan,Netherlands_vs_Japan_2026-06-14,40
+ Cote d'lvoire,CoteD'lvoire_vs_ Ecuador_2026-06-14,48
+Ecuador,CoteD'lvoire_vs_ Ecuador_2026-06-14,52
+Sweden ,Sweden_vs_Tunisia_2026-06-14,49
+Tunisia,Sweden_vs_Tunisia_2026-06-14,51
+Belgium ,Belgium_vs_Egypt_2026-06-15,54
+Egypt,Belgium_vs_Egypt_2026-06-15,46
+Spain , Spain_vs_CaboVerde_2026-06-15,74
+Cabo Verde,Spain_vs_CaboVerde_2026-06-15,26
+IR Iran ,IRIran_vs_NewZealand_2026-06-15,48
+New Zealand,IRIran_vs_NewZealand_2026-06-15,52
+Saudi Arabia ,SarudiArabia_vs_Uruguay_2026-06-15,33
+Uruguay,SarudiArabia_vs_Uruguay_2026-06-15,67
+France ,France_vs_Senegal_2026-06-16,54
+Senegal,France_vs_Senegal_2026-06-16,46
+Iraq ,Iraq_vs_Norway_2026-06-16,39
+Norway,Iraq_vs_Norway_2026-06-16,61
+Argentina ,Argentina_vs_Algeria_2026-06-16,48
+Algeria,Argentina_vs_Algeria_2026-06-16,52
+Austria ,Austria_vs_Jordan_2026-06-16,63
+Jordan,Austria_vs_Jordan_2026-06-16,37
+Portugal ,Portugal_vs_CongoDR_2026-06-17,75
+Congo DR,Portugal_vs_CongoDR_2026-06-17,25
+England ,England_vs_Croatia_2026-06-17,52
+Croatia,England_vs_Croatia_2026-06-17,48
+Ghana ,Ghana_vs_Panama_2026-06-17,38
+Panama,Ghana_vs_Panama_2026-06-17,62
+Uzbekistan ,Uzbekistan_vs_Colombia_2026-06-17,39
+Colombia,Uzbekistan_vs_Colombia_2026-06-17,62
+ Czechia ,Czechia_vs_SouthAfrica_2026-06-18,38
+South Africa,Czechia_vs_SouthAfrica_2026-06-18,62
+Switzerland ,Switzerland_vs_BosniaHerz_2026-06-18,62
+Bosnia–Herz,Switzerland_vs_BosniaHerz_2026-06-18,38
+Canada ,Canada_vs_Qatar_2026-06-18,79
+Qatar,Canada_vs_Qatar_2026-06-18,21
+Mexico ,Mexico_vs_KoreaRepublic_2026-06-18,42
+Korea Republic,Mexico_vs_KoreaRepublic_2026-06-18,58
+USA ,USA_vs_Australia_2026-06-19,62
+Australia,USA_vs_Australia_2026-06-19,38
+Scotland ,Scotland_vs_Morocco_2026-06-19,41
+Morocco,Scotland_vs_Morocco_2026-06-19,59
+Turkey,Turkey_vs_Paraguay_2026-06-19,79
+Paraguay,Turkey_vs_Paraguay_2026-06-19,22
+Brazil ,Brazil_vs_Haiti_2026-06-19,57
+Haiti,Brazil_vs_Haiti_2026-06-19,43
+Netherlands ,Netherlands_vs_Sweden_2026-06-20,51
+Sweden,Netherlands_vs_Sweden_2026-06-20,49
+Germany ,Germany_vs_CoteD'lvoire_2026-06-20,59
+Cote d'lvoire,Germany_vs_CoteD'lvoire_2026-06-20,41
+Ecuador ,Ecuador_vs_Curacao_2026-06-20,75
+Curacao,Ecuador_vs_Curacao_2026-06-20,25
+Tunisia ,Tunisia_vs_Japan_2026-06-20,38
+Japan,Tunisia_vs_Japan_2026-06-20,62
+Spain ,Spain_vs_SaudiArabia_2026-06-21,67
+Saudi Arabia,Spain_vs_SaudiArabia_2026-06-21,33
+Belgium ,Belgium_vs_IRIran_2026-06-21,70
+IR Iran,Belgium_vs_IRIran_2026-06-21,30
+Uruguay ,Uruguay_vs_CaboVerde_2026-06-21,65
+Cabo Verde,Uruguay_vs_CaboVerde_2026-06-21,35
+New Zealand ,NewZealand_vs_Egypt_2026-06-21,44
+ Egypt,NewZealand_vs_Egypt_2026-06-21,56
+Argentina ,Argentina_vs_Austria_2026-06-22,54
+Austria,Argentina_vs_Austria_2026-06-22,46
+France ,France_vs_Iraq_2026-06-22,56
+Iraq,France_vs_Iraq_2026-06-22,45
+Norway ,Norway_vs_Senegal_2026-06-22,42
+Senegal,Norway_vs_Senegal_2026-06-22,58
+Jordan ,Jordan_vs_Algeria_2026-06-22,28
+ Algeria,Jordan_vs_Algeria_2026-06-22,72
+Portugal ,Portugal_vs_Uzbekistan_2026-06-23,66
+Uzbekistan,Portugal_vs_Uzbekistan_2026-06-23,34
+England ,England_vs_Ghana_2026-06-23,79
+Ghana,England_vs_Ghana_2026-06-23,21
+Panama ,Panama_vs_Croatia_2026-06-23,42
+Croatia,Panama_vs_Croatia_2026-06-23,58
+Colombia ,Colombia_vs_CongoDR_2026-06-23,64
+Congo DR,Colombia_vs_CongoDR_2026-06-23,37
+Switzerland ,Switzerland_vs_Canada_2026-06-24,55
+Canada,Switzerland_vs_Canada_2026-06-24,45
+Bosnia–Herz ,BosniaHerz_vs_Qatar_2026-06-24,55
+Qatar,BosniaHerz_vs_Qatar_2026-06-24,46
+Scotland ,Scotland_vs_Brazil_2026-06-24,46
+Brazil,Scotland_vs_Brazil_2026-06-24,54
+Morocco ,Morocco_vs_Haiti_2026-06-24,69
+Haiti,Morocco_vs_Haiti_2026-06-24,31
+South Africa ,SouthAfrica_vs_KoreaRepublic_2026-06-24,32
+Korea Republic,SouthAfrica_vs_KoreaRepublic_2026-06-24,69
+Czechia ,Czechia_vs_Mexico_2026-06-24,52
+Mexico,Czechia_vs_Mexico_2026-06-24,48
+Curacao,Curacao_vs_CoteD'lvoire_2026-06-25,37
+Cote d'lvoire,Curacao_vs_CoteD'lvoire_2026-06-25,63
+Ecuador ,Ecuador_vs_Germany_2026-06-25,39
+Germany,Ecuador_vs_Germany_2026-06-25,61
+Japan ,Japan_vs_Sweden_2026-06-25,52
+Sweden,Japan_vs_Sweden_2026-06-25,48
+Tunisia ,Tunisia_vs_Netherlands_2026-06-25,29
+Netherlands,Tunisia_vs_Netherlands_2026-06-25,72
+Paraguay ,Paraguay_vs_Australia_2026-06-25,44
+Australia,Paraguay_vs_Australia_2026-06-25,56
+Turkey,Turkey_vs_USA_2026-06-25,48
+USA,Turkey_vs_USA_2026-06-25,53
+Norway ,Norway_vs_France_2026-06-26,43
+France,Norway_vs_France_2026-06-26,57
+Senegal ,Senegal_vs_Iraq_2026-06-26,69
+Iraq,Senegal_vs_Iraq_2026-06-26,31
+Uruguay ,Uruguay_vs_Spain_2026-06-26,33
+Spain,Uruguay_vs_Spain_2026-06-26,67
+Cabo Verde ,CaboVerde_vs_SaudiArabia_2026-06-26,51
+Saudi Arabia,CaboVerde_vs_SaudiArabia_2026-06-26,49
+Egypt ,Egypt_vs_IRIran_2026-06-26,61
+IR Iran,Egypt_vs_IRIran_2026-06-26,39
+New Zealand ,NewZealand_vs_Belgium_2026-06-26,45
+Belgium,NewZealand_vs_Belgium_2026-06-26,55
+Panama ,Panama_vs_England_2026-06-27,33
+England,Panama_vs_England_2026-06-27,67
+Croatia ,Croatia_vs_Ghana_2026-06-27,53
+Ghana,Croatia_vs_Ghana_2026-06-27,47
+Colombia ,Colombia_vs_Portugal_2026-06-27,55
+Portugal,Colombia_vs_Portugal_2026-06-27,45
+Congo DR ,CongoDR_vs_Uzbekistan_2026-06-27,58
+Uzbekistan,CongoDR_vs_Uzbekistan_2026-06-27,42
+Jordan ,Jordan_vs_Argentina_2026-06-27,27
+Argentina,Jordan_vs_Argentina_2026-06-27,73
+Algeria ,Algeria_vs_Austria_2026-06-27,65
+Austria,Algeria_vs_Austria_2026-06-27,35
